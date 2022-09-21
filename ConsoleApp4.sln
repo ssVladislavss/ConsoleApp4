@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp4", "ConsoleApp4\ConsoleApp4.csproj", "{AFE2F789-4895-401A-92AC-147DD156C8DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventar.Data", "Inventar.Data\Inventar.Data.csproj", "{13338887-6705-4855-BFFE-2382D8E1D77D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFE2F789-4895-401A-92AC-147DD156C8DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE2F789-4895-401A-92AC-147DD156C8DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE2F789-4895-401A-92AC-147DD156C8DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE2F789-4895-401A-92AC-147DD156C8DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13338887-6705-4855-BFFE-2382D8E1D77D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13338887-6705-4855-BFFE-2382D8E1D77D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13338887-6705-4855-BFFE-2382D8E1D77D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13338887-6705-4855-BFFE-2382D8E1D77D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FB751B9-EFF0-4538-B30F-57B15C7E45F9}
+	EndGlobalSection
+EndGlobal
